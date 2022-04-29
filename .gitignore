@@ -5,6 +5,9 @@
 # enviroment variables
 .env
 
+# local database
+database.db
+
 # Logs
 logs
 *.log
